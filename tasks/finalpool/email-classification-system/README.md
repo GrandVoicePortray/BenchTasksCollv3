@@ -1,0 +1,7 @@
+# email-classification-system
+
+- Task: email-classification-system
+- Implementor: jl_dev
+- Status: implemented
+
+Copied to the final pool after verification against the requirements in `tasks/examples`.
